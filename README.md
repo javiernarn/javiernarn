@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00C4CC&center=true&vCenter=true&width=600&lines=Jonee+John+Rivera+Antiquina;Full-Stack+Web+Developer;Laravel+%2B+MySQL+%7C+React+%2B+Vite;Building+Elegant%2C+Scalable+Web+Apps" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00C4CC&center=true&vCenter=true&width=600&lines=Jonee+John+Rivera+Antiquina;Programmer+%7C+Frontend+%26+Backend;Laravel+%2B+MySQL+%7C+React+%2B+Vite;Building+Elegant%2C+Scalable+Web+Apps" alt="Typing SVG" />
 
 <br/>
 
@@ -20,7 +20,7 @@
 
 ## 🧭 About Me
 
-I'm a **programmer, designer, and full-stack developer** based in Cagayan de Oro City, Philippines, specializing in building elegant, scalable web applications — from database schema design to pixel-perfect interfaces.
+I'm a **programmer, designer, and frontend & backend developer** based in Cagayan de Oro City, Philippines, specializing in building elegant, scalable web applications — from database schema design to pixel-perfect interfaces.
 
 My core stack centers on **Laravel + MySQL** for robust backend systems, and **React + Vite** for modern, installable Progressive Web Apps (PWAs). In 2026 I expanded further into the React ecosystem, shipping OJT tracking tools, client-side utilities, and personal portfolio sites — all deployed on Vercel.
 
@@ -29,7 +29,6 @@ role:        Frontend & Backend Developer
 location:    Cagayan de Oro City, Misamis Oriental, Philippines
 languages:   English · Filipino · Bisaya
 focus:       Laravel · MySQL · React · Vite · PWA
-contact:     occ.antiquina.joneejohn@gmail.com
 ```
 
 <br/>
@@ -45,18 +44,20 @@ contact:     occ.antiquina.joneejohn@gmail.com
       <p>
         <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
         <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+        <img src="https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logo=pwa&logoColor=white" />
       </p>
       <a href="https://alumni.occph.com/">🔗 Live Site</a>
     </td>
     <td width="33%" valign="top">
       <h3>⏱️ OCC Duty Log</h3>
-      <p><b>OJT Hours Tracker (PWA)</b></p>
+      <p><b>OJT Hours Tracker </b></p>
       <p>Tracks internship duty hours with Google sign-in and automated reminders.</p>
       <p>
         <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
         <img src="https://img.shields.io/badge/Firebase-039BE5?style=flat-square&logo=firebase&logoColor=white" />
+        <img src="https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logo=pwa&logoColor=white" />
       </p>
-      <sub>Deployed on Vercel</sub>
+      <a href="https://antiquina-ota-dxxj.vercel.app">🔗 Live Site</a>
     </td>
     <td width="33%" valign="top">
       <h3>🔲 QR Code Builder</h3>
@@ -65,8 +66,9 @@ contact:     occ.antiquina.joneejohn@gmail.com
       <p>
         <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
         <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
+        <img src="https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logo=pwa&logoColor=white" />
       </p>
-      <sub>Deployed on Vercel</sub>
+      <a href="https://antiquina-q-rcode-app.vercel.app">🔗 Live Site</a>
     </td>
   </tr>
 </table>
